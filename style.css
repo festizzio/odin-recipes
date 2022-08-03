@@ -3,3 +3,9 @@ img {
     height: 500px;
     object-fit: none;
 }
+
+.link-button {
+    text-align: center;
+    background-color: rgb(111,218,218);
+    font-size: 50px;
+}
